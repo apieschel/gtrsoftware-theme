@@ -8,7 +8,7 @@
 </div>
 
 <main>
-	<h1>Web Development &amp; Design Portfolio</h1>	
+	<h1><?php esc_html_e('Web Development and Design Portfolio', 'gtrsoftware'); ?></h1>	
 	<hr>
 	
 	<section id="projects">
