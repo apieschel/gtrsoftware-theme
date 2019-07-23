@@ -31,10 +31,10 @@
 					<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Responsive design</p>
 					<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SVG hover animation</p>
 
-					<a href="<?php bloginfo('stylesheet_directory'); ?>/dirtypaws_html_code_sample.PNG" data-lightbox="code1">
+					<a href="<?php bloginfo('stylesheet_directory'); ?>/assets/dirtypaws_html_code_sample.PNG" data-lightbox="code1">
 						<div class="code1"><span class="overlay">HTML Code Sample</span></div>
 					</a>
-					<a href="<?php bloginfo('stylesheet_directory'); ?>/custom_styles_code_snippet.PNG" data-lightbox="code2">
+					<a href="<?php bloginfo('stylesheet_directory'); ?>/assets/custom_styles_code_snippet.PNG" data-lightbox="code2">
 						<div class="code2"><span class="overlay">Custom Styles PHP &amp; CSS Code Sample</span></div>
 					</a>
 
@@ -64,10 +64,10 @@
 					<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Responsive design</p>
 					<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Custom Masonry grid</p>
 
-					<a href="<?php bloginfo('stylesheet_directory'); ?>/frankie_lamar_css_code_sample.PNG" data-lightbox="code3">
+					<a href="<?php bloginfo('stylesheet_directory'); ?>/assets/frankie_lamar_css_code_sample.PNG" data-lightbox="code3">
 						<div class="code3"><span class="overlay">CSS Code Sample</span></div>
 					</a>
-					<a href="<?php bloginfo('stylesheet_directory'); ?>/frankie_lamar_html_code_sample.PNG" data-lightbox="code4">
+					<a href="<?php bloginfo('stylesheet_directory'); ?>/assets/frankie_lamar_html_code_sample.PNG" data-lightbox="code4">
 						<div class="code4"><span class="overlay">HTML Code Sample</span></div>
 					</a>
 
@@ -95,10 +95,10 @@
 					<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Custom Lightbox Gallery</p>
 					<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Custom Wordpress Templates</p>
 
-					<a href="<?php bloginfo('stylesheet_directory'); ?>/mainstreet_css_code_sample.PNG" data-lightbox="code3">
+					<a href="<?php bloginfo('stylesheet_directory'); ?>/assets/mainstreet_css_code_sample.PNG" data-lightbox="code3">
 						<div class="code5"><span class="overlay">CSS Code Sample</span></div>
 					</a>
-					<a href="<?php bloginfo('stylesheet_directory'); ?>/mainstreet_php_code_sample.PNG" data-lightbox="code4">
+					<a href="<?php bloginfo('stylesheet_directory'); ?>/assets/mainstreet_php_code_sample.PNG" data-lightbox="code4">
 						<div class="code6"><span class="overlay">PHP Code Sample</span></div>
 					</a>
 
