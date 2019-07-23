@@ -14,10 +14,10 @@
 	<section id="projects">
 		<div class="container-fluid">
 			<div class="row">
-				<h2 class="center"><br>DIRTY PAWS POETRY REVIEW</h2>
+				<h2 class="center"><br><?php esc_html_e('Dirty Paws Poetry Review', 'gtrsoftware'); ?></h2>
 				<div class="col-md-7">
 					<a href="<?php echo esc_url('https://dirtypawspoetry.com'); ?>" target="_blank"><img width="890" height="938" src="<?php bloginfo('stylesheet_directory'); ?>/assets/dirtypaws_portfolio.png" alt="screenshots of the Dirty Paws Poetry Review website in mobile, desktop, and tablet sizes" title="Dirty Paws Poetry Portfolio Entry"></a>
-				</div>
+				</div><!-- .col-md-7 -->
 
 				<div class="col-md-5 project-tile">
 					<h3 class="center animated fadeInRight">SITE FEATURES</h3>

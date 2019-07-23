@@ -539,6 +539,10 @@ h1 a:hover {
 	text-align: left;
 }
 
+.home h2 {
+	text-transform: uppercase;
+}
+
 a:hover {
 	text-decoration: none;
 	color: black;
