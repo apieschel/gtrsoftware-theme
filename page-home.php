@@ -16,7 +16,7 @@
 			<div class="row">
 				<h2 class="center"><br>DIRTY PAWS POETRY REVIEW</h2>
 				<div class="col-md-7">
-					<a href="https://dirtypawspoetry.com" target="_blank"><img width="890" height="938" src="<?php bloginfo('stylesheet_directory'); ?>/dirtypaws_portfolio.png" alt="screenshots of the Dirty Paws Poetry Review website in mobile, desktop, and tablet sizes" title="Dirty Paws Poetry Portfolio Entry"></a>
+					<a href="https://dirtypawspoetry.com" target="_blank"><img width="890" height="938" src="<?php bloginfo('stylesheet_directory'); ?>/assets/dirtypaws_portfolio.png" alt="screenshots of the Dirty Paws Poetry Review website in mobile, desktop, and tablet sizes" title="Dirty Paws Poetry Portfolio Entry"></a>
 				</div>
 
 				<div class="col-md-5 project-tile">
@@ -37,7 +37,6 @@
 					<a href="<?php bloginfo('stylesheet_directory'); ?>/assets/custom_styles_code_snippet.PNG" data-lightbox="code2">
 						<div class="code2"><span class="overlay">Custom Styles PHP &amp; CSS Code Sample</span></div>
 					</a>
-
 				</div>
 			</div>
 		</div> <!-- container-fluid -->
@@ -49,7 +48,7 @@
 			<div class="row">
 				<h2 class="center"><br>FRANKIE LAMAR POTTERY&nbsp;&nbsp;<i class="fa fa-cog" aria-hidden="true"></i></h2>
 				<div class="col-md-7">
-					<a href="https://frankielamar.com" target="_blank"><img width="890" height="938" src="<?php bloginfo('stylesheet_directory'); ?>/frankielamar_portfolio.png" alt="screenshots of the Frankie Lamar Pottery website in mobile, desktop, and tablet sizes" title="Frankie Lamar Pottery Portfolio Entry"></a>
+					<a href="https://frankielamar.com" target="_blank"><img width="890" height="938" src="<?php bloginfo('stylesheet_directory'); ?>/assets/frankielamar_portfolio.png" alt="screenshots of the Frankie Lamar Pottery website in mobile, desktop, and tablet sizes" title="Frankie Lamar Pottery Portfolio Entry"></a>
 				</div>
 
 				<div class="col-md-5 project-tile">
@@ -82,7 +81,7 @@
 			<div class="row">
 				<h2 class="center"><br>MAIN STREET CHRISTIAN SCHOOL&nbsp;&nbsp;<i class="fa fa-cog" aria-hidden="true"></i></h2>
 				<div class="col-md-7">
-					<a href="https://mainstreetchristianschool.space" target="_blank"><img width="890" height="938" src="<?php bloginfo('stylesheet_directory'); ?>/mainstreet_portfolio.png" alt="screenshots of the Frankie Lamar Pottery website in mobile, desktop, and tablet sizes" title="Main Street Christian School Portfolio Entry"></a>
+					<a href="https://mainstreetchristianschool.space" target="_blank"><img width="890" height="938" src="<?php bloginfo('stylesheet_directory'); ?>/assets/mainstreet_portfolio.png" alt="screenshots of the Frankie Lamar Pottery website in mobile, desktop, and tablet sizes" title="Main Street Christian School Portfolio Entry"></a>
 				</div>
 
 				<div class="col-md-5 project-tile">
