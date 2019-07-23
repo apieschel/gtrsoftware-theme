@@ -32,10 +32,10 @@
 					<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SVG hover animation</p>
 
 					<a href="<?php bloginfo('stylesheet_directory'); ?>/assets/dirtypaws_html_code_sample.PNG" data-lightbox="code1">
-						<div class="code1"><span class="overlay">HTML Code Sample</span></div>
+						<div class="code1"><span class="overlay"><?php esc_html_e('HTML Code Sample', 'gtrsoftware'); ?></span></div>
 					</a>
 					<a href="<?php bloginfo('stylesheet_directory'); ?>/assets/custom_styles_code_snippet.PNG" data-lightbox="code2">
-						<div class="code2"><span class="overlay">Custom Styles PHP &amp; CSS Code Sample</span></div>
+						<div class="code2"><span class="overlay"><?php esc_html_e('PHP and CSS Code Sample', 'gtrsoftware'); ?></span></div>
 					</a>
 				</div>
 			</div>
