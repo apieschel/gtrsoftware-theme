@@ -79,7 +79,7 @@
 	
 		<div class="container-fluid">
 			<div class="row">
-				<h2 class="center"><br>MAIN STREET CHRISTIAN SCHOOL&nbsp;&nbsp;<i class="fa fa-cog" aria-hidden="true"></i></h2>
+				<h2 class="center"><br><?php esc_html_e('Main Street Christian School', 'gtrsoftware'); ?></h2>
 				<div class="col-md-7">
 					<a href="<?php echo esc_url('https://mainstreetchristianschool.space'); ?>" target="_blank"><img width="890" height="938" src="<?php bloginfo('stylesheet_directory'); ?>/assets/mainstreet_portfolio.png" alt="screenshots of the Frankie Lamar Pottery website in mobile, desktop, and tablet sizes" title="Main Street Christian School Portfolio Entry"></a>
 				</div>
@@ -106,7 +106,6 @@
 			</div>	
 		</div> <!-- container-fluid -->
 	</section>
-
 </main>
 
 <?php get_footer(); ?>
