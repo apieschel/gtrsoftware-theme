@@ -20,7 +20,7 @@
 				</div><!-- .col-md-7 -->
 
 				<div class="col-md-5 project-tile">
-					<h3 class="center animated fadeInRight">SITE FEATURES</h3>
+					<h3 class="center animated fadeInRight"><?php esc_html_e('Site Features', 'gtrsoftware'); ?></h3>
 					<p>Ajax transitions between featured posts</p>
 					<p>&nbsp;Dynamic styles using Advanced Custom Fields</p>
 					<p>&nbsp;&nbsp;JQuery autoscroll of footer image</p>
@@ -52,7 +52,7 @@
 				</div>
 
 				<div class="col-md-5 project-tile">
-					<h3 class="center frankie">SITE FEATURES</h3>
+					<h3 class="center frankie"><?php esc_html_e('Site Features', 'gtrsoftware'); ?></h3>
 					<p>Fully functional E-commerce shop</p>
 					<p>&nbsp;Custom WooCommerce page templates</p>
 					<p>&nbsp;&nbsp;CSS coffee cup animation</p>
@@ -85,7 +85,7 @@
 				</div>
 
 				<div class="col-md-5 project-tile">
-					<h3 class="center frankie">SITE FEATURES</h3>
+					<h3 class="center frankie"><?php esc_html_e('Site Features', 'gtrsoftware'); ?></h3>
 					<p>Validated HTML and CSS</p>
 					<p>&nbsp;Accessibility Testing</p>
 					<p>&nbsp;&nbsp;Optimized for security, speed, and SEO</p>
