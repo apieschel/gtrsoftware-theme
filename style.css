@@ -522,16 +522,20 @@ a {
 }
 
 h1 {
+	color: #9d9d9d;
 	margin-top: 100px;
 	text-align: center;	
 }
 
-h1 a {
-	color: #9d9d9d;
-}
-
 h1 a:hover {
 	color: white;
+}
+
+.home h1 {
+	font-size:48px;
+	margin-bottom:48px;
+	margin-left: 40px;
+	text-align: left;
 }
 
 a:hover {
@@ -577,11 +581,6 @@ h5 {
 	padding-left: 1%;
 	font-size: 2rem;
 	margin: 3.5% 0 3.5% 0;
-}
-
-.page-template-page-home h1 {
-	margin-left: 2%;
-	margin-top: 3.5%;
 }
 
 .page-template-page-services h1, .page-template-page-contact h1 {
@@ -645,7 +644,7 @@ h5 {
 .circle .fa-cog {
 	position: absolute;
 	right: 15%;
-	top: 19%;
+	top: 27%;
 	color: rgb(34, 34, 34);
 	-webkit-animation: rotation 21s infinite linear;
 }
