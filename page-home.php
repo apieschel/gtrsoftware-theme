@@ -31,17 +31,20 @@
 					<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Responsive design</p>
 					<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SVG hover animation</p>
 
-					<a href="<?php bloginfo('stylesheet_directory'); ?>/assets/dirtypaws_html_code_sample.PNG" data-lightbox="code1">
-						<div class="code1"><span class="overlay"><?php esc_html_e('HTML Code Sample', 'gtrsoftware'); ?></span></div>
+					<a href="<?php echo esc_url(get_bloginfo('stylesheet_directory') . '/assets/dirtypaws_html_code_sample.PNG'); ?>" data-lightbox="code1">
+						<div class="code1">
+							<span class="overlay"><?php esc_html_e('HTML Code Sample', 'gtrsoftware'); ?></span>
+						</div><!--.code1-->
 					</a>
-					<a href="<?php bloginfo('stylesheet_directory'); ?>/assets/custom_styles_code_snippet.PNG" data-lightbox="code2">
-						<div class="code2"><span class="overlay"><?php esc_html_e('PHP and CSS Code Sample', 'gtrsoftware'); ?></span></div>
+					<a href="<?php echo esc_url(get_bloginfo('stylesheet_directory') . '/assets/custom_styles_code_snippet.PNG'); ?>" data-lightbox="code2">
+						<div class="code2">
+							<span class="overlay"><?php esc_html_e('PHP and CSS Code Sample', 'gtrsoftware'); ?></span>
+						</div><!--.code2-->
 					</a>
-				</div>
-			</div>
+				</div><!--.project-tile-->
+			</div><!--.row-->
 		</div> <!-- container-fluid -->
 
-	
 	<hr>
 
 		<div class="container-fluid">
@@ -49,7 +52,7 @@
 				<h2 class="center"><br><?php esc_html_e('Frankie Lamar Pottery', 'gtrsoftware'); ?></h2>
 				<div class="col-md-7">
 					<a href="<?php echo esc_url('https://frankielamar.com'); ?>" target="_blank"><img width="890" height="938" src="<?php bloginfo('stylesheet_directory'); ?>/assets/frankielamar_portfolio.png" alt="screenshots of the Frankie Lamar Pottery website in mobile, desktop, and tablet sizes" title="Frankie Lamar Pottery Portfolio Entry"></a>
-				</div>
+				</div><!--.col-md-7-->
 
 				<div class="col-md-5 project-tile">
 					<h3 class="center frankie"><?php esc_html_e('Site Features', 'gtrsoftware'); ?></h3>
@@ -63,16 +66,20 @@
 					<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Responsive design</p>
 					<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Custom Masonry grid</p>
 
-					<a href="<?php bloginfo('stylesheet_directory'); ?>/assets/frankie_lamar_css_code_sample.PNG" data-lightbox="code3">
-						<div class="code3"><span class="overlay">CSS Code Sample</span></div>
+					<a href="<?php echo esc_url(get_bloginfo('stylesheet_directory') . '/assets/frankie_lamar_css_code_sample.PNG'); ?>" data-lightbox="code3">
+						<div class="code3">
+							<span class="overlay"><?php esc_html_e('CSS Code Sample', 'gtrsoftware'); ?></span>
+						</div><!--.code3-->
 					</a>
-					<a href="<?php bloginfo('stylesheet_directory'); ?>/assets/frankie_lamar_html_code_sample.PNG" data-lightbox="code4">
-						<div class="code4"><span class="overlay">HTML Code Sample</span></div>
+					<a href="<?php echo esc_url(get_bloginfo('stylesheet_directory') . '/assets/frankie_lamar_html_code_sample.PNG'); ?>" data-lightbox="code4">
+						<div class="code4">
+							<span class="overlay"><?php esc_html_e('HTML Code Sample', 'gtrsoftware'); ?></span>
+						</div><!--.code4-->
 					</a>
 
 					<br><br>
-				</div>
-			</div>	
+				</div><!--.project-tile-->
+			</div><!--.row-->	
 		</div> <!-- container-fluid -->
 			
 	<hr>
@@ -82,7 +89,7 @@
 				<h2 class="center"><br><?php esc_html_e('Main Street Christian School', 'gtrsoftware'); ?></h2>
 				<div class="col-md-7">
 					<a href="<?php echo esc_url('https://mainstreetchristianschool.space'); ?>" target="_blank"><img width="890" height="938" src="<?php bloginfo('stylesheet_directory'); ?>/assets/mainstreet_portfolio.png" alt="screenshots of the Frankie Lamar Pottery website in mobile, desktop, and tablet sizes" title="Main Street Christian School Portfolio Entry"></a>
-				</div>
+				</div><!--.col-md-7-->
 
 				<div class="col-md-5 project-tile">
 					<h3 class="center frankie"><?php esc_html_e('Site Features', 'gtrsoftware'); ?></h3>
@@ -94,17 +101,21 @@
 					<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Custom Lightbox Gallery</p>
 					<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Custom Wordpress Templates</p>
 
-					<a href="<?php bloginfo('stylesheet_directory'); ?>/assets/mainstreet_css_code_sample.PNG" data-lightbox="code3">
-						<div class="code5"><span class="overlay">CSS Code Sample</span></div>
+					<a href="<?php echo esc_url(get_bloginfo('stylesheet_directory') . '/assets/mainstreet_css_code_sample.PNG'); ?>" data-lightbox="code3">
+						<div class="code5">
+							<span class="overlay"><?php esc_html_e('CSS Code Sample', 'gtrsoftware'); ?></span>
+						</div><!--.code5-->
 					</a>
-					<a href="<?php bloginfo('stylesheet_directory'); ?>/assets/mainstreet_php_code_sample.PNG" data-lightbox="code4">
-						<div class="code6"><span class="overlay">PHP Code Sample</span></div>
+					<a href="<?php echo esc_url(get_bloginfo('stylesheet_directory') . '/assets/mainstreet_php_code_sample.PNG'); ?>" data-lightbox="code4">
+						<div class="code6">
+							<span class="overlay"><?php esc_html_e('PHP Code Sample', 'gtrsoftware'); ?></span>
+						</div><!--.code6-->
 					</a>
 
 					<br><br>
-				</div>
-			</div>	
-		</div> <!-- container-fluid -->
+				</div><!--.col-md-5 -->
+			</div><!--.row-->	
+		</div><!-- container-fluid -->
 	</section>
 </main>
 
