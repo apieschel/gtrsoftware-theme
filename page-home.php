@@ -32,12 +32,12 @@
 					<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SVG hover animation</p>
 
 					<a href="<?php echo esc_url(get_bloginfo('stylesheet_directory') . '/assets/dirtypaws_html_code_sample.PNG'); ?>" data-lightbox="code1">
-						<div class="code1">
+						<div class="code code1">
 							<span class="overlay"><?php esc_html_e('HTML Code Sample', 'gtrsoftware'); ?></span>
 						</div><!--.code1-->
 					</a>
 					<a href="<?php echo esc_url(get_bloginfo('stylesheet_directory') . '/assets/custom_styles_code_snippet.PNG'); ?>" data-lightbox="code2">
-						<div class="code2">
+						<div class="code code2">
 							<span class="overlay"><?php esc_html_e('PHP and CSS Code Sample', 'gtrsoftware'); ?></span>
 						</div><!--.code2-->
 					</a>
@@ -67,12 +67,12 @@
 					<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Custom Masonry grid</p>
 
 					<a href="<?php echo esc_url(get_bloginfo('stylesheet_directory') . '/assets/frankie_lamar_css_code_sample.PNG'); ?>" data-lightbox="code3">
-						<div class="code3">
+						<div class="code code3">
 							<span class="overlay"><?php esc_html_e('CSS Code Sample', 'gtrsoftware'); ?></span>
 						</div><!--.code3-->
 					</a>
 					<a href="<?php echo esc_url(get_bloginfo('stylesheet_directory') . '/assets/frankie_lamar_html_code_sample.PNG'); ?>" data-lightbox="code4">
-						<div class="code4">
+						<div class="code code4">
 							<span class="overlay"><?php esc_html_e('HTML Code Sample', 'gtrsoftware'); ?></span>
 						</div><!--.code4-->
 					</a>
@@ -102,12 +102,12 @@
 					<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Custom Wordpress Templates</p>
 
 					<a href="<?php echo esc_url(get_bloginfo('stylesheet_directory') . '/assets/mainstreet_css_code_sample.PNG'); ?>" data-lightbox="code3">
-						<div class="code5">
+						<div class="code code5">
 							<span class="overlay"><?php esc_html_e('CSS Code Sample', 'gtrsoftware'); ?></span>
 						</div><!--.code5-->
 					</a>
 					<a href="<?php echo esc_url(get_bloginfo('stylesheet_directory') . '/assets/mainstreet_php_code_sample.PNG'); ?>" data-lightbox="code4">
-						<div class="code6">
+						<div class="code code6">
 							<span class="overlay"><?php esc_html_e('PHP Code Sample', 'gtrsoftware'); ?></span>
 						</div><!--.code6-->
 					</a>

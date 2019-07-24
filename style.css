@@ -590,6 +590,7 @@ ul {
 	margin: 3.5% 0 3.5% 0;
 }
 
+/* OTHER PAGES */
 .page-template-page-services h1, .page-template-page-contact h1 {
 	font-size: 3.9rem;
 	font-weight: 700;
@@ -660,10 +661,7 @@ ul {
 	top: 34%;
 }
 
-h2 .fa-cog {
-	-webkit-animation: rotation 21s infinite linear;
-}
-
+/* cog rotation animation */
 @-webkit-keyframes rotation {
 	from {
 		-webkit-transform: rotate(0deg);
@@ -680,64 +678,42 @@ h2 .fa-cog {
 	background-image: url("data:image/svg+xml;charset=utf8,%3Csvg id='Squiggle-svg' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:ev='http://www.w3.org/2001/xml-events' viewBox='0 0 20 4'%3E%3Cstyle type='text/css'%3E.st0{animation:shift 3s linear infinite;}@keyframes shift {from {transform:translateX(0);}to {transform:translateX(-50%);}}%3C/style%3E%3Cpath fill='none' stroke='rgb(11, 29, 46)' stroke-width='2' class='st0' d='M0,3.5 c 5,0,5,-3,10,-3 s 5,3,10,3 c 5,0,5,-3,10,-3 s 5,3,10,3'/%3E%3C/svg%3E");
 }
 
-.code1 {
-	height: 200px;
-	width: 200px;
-	margin: 5% 0 20% 0;
-	float: right;
+.code {
 	border: solid black 1px;
 	border-radius: 100%;
+	float: right;
+	height: 200px;
+	width: 200px;
+}
+
+.code1 {
+	margin: 5% 0 20% 0;
 	background: url("/wp-content/themes/gtrsoftware-theme/assets/dirtypaws_html_code_sample.PNG");
 }
 
 .code2 {
-	height: 200px;
-	width: 200px;
 	margin: 5% 5% 20% 0;
-	float: right;
-	border: solid black 1px;
-	border-radius: 100%;
 	background: url("/wp-content/themes/gtrsoftware-theme/assets/custom_styles_code_snippet.PNG");
 }
 
 .code3 {
-	height: 200px;
-	width: 200px;
 	margin: 5% 0 20% 0;
-	float: right;
-	border: solid black 1px;
-	border-radius: 100%;
 	background: url("/wp-content/themes/gtrsoftware-theme/assets/frankie_lamar_css_code_sample.PNG");
 }
 
 .code4 {
-	height: 200px;
-	width: 200px;
 	margin: 5% 5% 20% 0;
-	float: right;
-	border: solid black 1px;
-	border-radius: 100%;
 	background: url("/wp-content/themes/gtrsoftware-theme/assets/frankie_lamar_html_code_sample.PNG");
 }
 
 
 .code5 {
-	height: 200px;
-	width: 200px;
 	margin: 5% 0 20% 0;
-	float: right;
-	border: solid black 1px;
-	border-radius: 100%;
 	background: url("/wp-content/themes/gtrsoftware-theme/assets/mainstreet_css_code_sample.PNG");
 }
 
 .code6 {
-	height: 200px;
-	width: 200px;
 	margin: 5% 5% 20% 0;
-	float: right;
-	border: solid black 1px;
-	border-radius: 100%;
 	background: url("/wp-content/themes/gtrsoftware-theme/assets/mainstreet_php_code_sample.PNG");
 }
 
