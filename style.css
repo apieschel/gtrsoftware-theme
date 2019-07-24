@@ -855,6 +855,12 @@ ul {
 	text-align: center;
 }
 
+.ui h1 {
+	font-size:32px;
+	margin-bottom: 8px;
+	margin-top: 30px;
+}
+
 .border-vertical {
 	position: absolute;
 	top:400px;
@@ -923,11 +929,6 @@ ul {
 
 .count h3 {
 	color:black;
-}
-
-.ui h1 {
-	margin-bottom: 8px;
-	font-size:32px;
 }
 
 .strict-light {
