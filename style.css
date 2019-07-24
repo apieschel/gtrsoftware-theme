@@ -745,7 +745,6 @@ ul {
 
 /* ----------------------Media Queries ----------------- */
 @media screen and ( max-width: 1462px) {
-
 	h5 {
 		font-size: 1.15rem;
 		padding-left: 0;
@@ -755,15 +754,12 @@ ul {
 		font-size: 1.15rem;
 		padding-left: 0;
 	}
-
 }
 
 @media screen and ( max-width: 1300px) {
-
 	.fa-cog {
 		display: none;
 	}
-
 }
 
 @media screen and ( max-width: 600px) {
@@ -789,14 +785,11 @@ ul {
 		font-size: 0.7rem;
 	}
 	
-	.page-template-page-home .col-md-5 p {
+	.home .col-md-5 p {
 		font-size: 0.7rem;
 	}
 
-	.code1,
-	.code2,
-	.code3,
-	.code4 {
+	.code {
 		float: none;
 		margin: 0 auto;
 		margin-top: 10%;
@@ -806,20 +799,6 @@ ul {
 	.navbar-right li {
 		display: none;
 	}
-
-	#welcome-section {
-		margin-top: 80px !important;
-		width: 90% !important;
-	}
-
-	#welcome-section h1 {
-		font-size: 32px !important;
-	}
-
-	#welcome-section p {
-		font-size: 18px !important;
-	}
-
 }
 
 
