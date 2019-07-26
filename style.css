@@ -884,14 +884,14 @@ ul {
 
 .count {
 	background-color:#430710;
-	height:38px;
-	width:50px;
+	border:solid 3px #333333;
 	border-radius:10px;
+	font-size:26px;
+	font-weight:bold;
+	height:38px;
 	text-align:center;
 	vertical-align:middle;
-	font-weight:bold;
-	font-size:26px;
-	border:solid 3px #333333;
+	width:50px;
 }
 
 #restart {
