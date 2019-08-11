@@ -50,12 +50,11 @@
 										<a class="dropdown-item" href="/tic-tac-toe">Tic Tac Toe</a>
 										<a class="dropdown-item" href="/simon">Simon</a>
 										<a class="dropdown-item" href="/pomodoro">Pomodoro</a>
-										<a class="dropdown-item" href="#projects">Websites</a>
 									</div>
 								</li>								
 								<li><a href="/services">Services</a></li>
 								<li><a href="/contact">Contact</a></li>
-								<li><a id="profile-link" href="https://github.com/apieschel" target="_blank">Git</a></li>
+								<li><a id="profile-link" href="/gitfeed">Gitfeed</a></li>
 							</ul>
 							<div style="font-size:16px; margin-top:-8px;" class="nav navbar-nav navbar-right navbar-brand"><a style="color:#9d9d9d;" href="/">GOLDEN TRIANGLE SOFTWARE</a><br><span style="font-size:12px; text-align:right; position:relative; float:right;">Columbus, MS 39701</span></div>
 						</div>
