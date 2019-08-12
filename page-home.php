@@ -16,7 +16,10 @@
 			<div class="row">
 				<h2 class="center"><br><?php esc_html_e('Dirty Paws Poetry Review', 'gtrsoftware'); ?></h2>
 				<div class="col-md-7">
-					<a href="<?php echo esc_url('https://dirtypawspoetry.com'); ?>" target="_blank"><img width="890" height="938" src="<?php bloginfo('stylesheet_directory'); ?>/assets/dirtypaws_portfolio.png" alt="screenshots of the Dirty Paws Poetry Review website in mobile, desktop, and tablet sizes" title="Dirty Paws Poetry Portfolio Entry"></a>
+					<a href="<?php echo esc_url('https://dirtypawspoetry.com'); ?>" target="_blank">
+						<img width="890" height="938" src="<?php bloginfo('stylesheet_directory'); ?>/assets/dirtypaws_portfolio.png" alt="screenshots of the Dirty Paws Poetry Review website in mobile, desktop, and tablet sizes" title="Dirty Paws Poetry Portfolio Entry">
+						<span class="hidden">Link to Dirty Paws Poetry website</span>
+					</a>
 				</div><!-- .col-md-7 -->
 
 				<div class="col-md-5 project-tile">
@@ -51,7 +54,10 @@
 			<div class="row">
 				<h2 class="center"><br><?php esc_html_e('Frankie Lamar Pottery', 'gtrsoftware'); ?></h2>
 				<div class="col-md-7">
-					<a href="<?php echo esc_url('https://frankielamar.com'); ?>" target="_blank"><img width="890" height="938" src="<?php bloginfo('stylesheet_directory'); ?>/assets/frankielamar_portfolio.png" alt="screenshots of the Frankie Lamar Pottery website in mobile, desktop, and tablet sizes" title="Frankie Lamar Pottery Portfolio Entry"></a>
+					<a href="<?php echo esc_url('https://frankielamar.com'); ?>" target="_blank">
+						<img width="890" height="938" src="<?php bloginfo('stylesheet_directory'); ?>/assets/frankielamar_portfolio.png" alt="screenshots of the Frankie Lamar Pottery website in mobile, desktop, and tablet sizes" title="Frankie Lamar Pottery Portfolio Entry">
+						<span class="hidden">Link to Frankie Lamar Pottery website</span>
+					</a>
 				</div><!--.col-md-7-->
 
 				<div class="col-md-5 project-tile">
@@ -88,7 +94,10 @@
 			<div class="row">
 				<h2 class="center"><br><?php esc_html_e('Main Street Christian School', 'gtrsoftware'); ?></h2>
 				<div class="col-md-7">
-					<a href="<?php echo esc_url('https://mainstreetchristianschool.space'); ?>" target="_blank"><img width="890" height="938" src="<?php bloginfo('stylesheet_directory'); ?>/assets/mainstreet_portfolio.png" alt="screenshots of the Frankie Lamar Pottery website in mobile, desktop, and tablet sizes" title="Main Street Christian School Portfolio Entry"></a>
+					<a href="<?php echo esc_url('https://mainstreetchristianschool.space'); ?>" target="_blank">
+						<img width="890" height="938" src="<?php bloginfo('stylesheet_directory'); ?>/assets/mainstreet_portfolio.png" alt="screenshots of the Frankie Lamar Pottery website in mobile, desktop, and tablet sizes" title="Main Street Christian School Portfolio Entry">
+						<span class="hidden">Link to Main Street Christian School website</span>
+					</a>
 				</div><!--.col-md-7-->
 
 				<div class="col-md-5 project-tile">
